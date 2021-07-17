@@ -1,0 +1,166 @@
+#title {
+  background-color: #fff;
+  color:#000000;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.navbar {
+  background-color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  padding: 0 1rem 0;
+  box-shadow: 0 1px 4px rgba(146,161,176,.3);
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.title-image {
+  width: 70%;
+  right: 50%;
+}
+
+.aboutme-image {
+  margin-top: 50px;
+  width: 60%;
+  right: 50%;
+}
+
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-top: 50px;
+}
+
+h3 {
+  font-family: 'Baloo Tammudu 2', cursive;
+  padding-top: 15px;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  padding-top: 20px;
+  line-height: 1.5;
+}
+
+.abm {
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+}
+
+
+
+#about-me {
+  background-color: slateblue;
+  padding: 3%;
+  color: #fff;
+}
+
+.row {
+  padding: 5%;
+}
+
+.des {
+  line-height: 2;
+}
+
+#skills {
+  background-color: #fff;
+  color:#000000;
+}
+
+.my-skills {
+  text-align: center;
+}
+
+.tec {
+  text-align: center;
+}
+
+.btn {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+
+.btn-group {
+  margin-right: 5px;
+  padding: 3% 10% 9%;
+}
+
+#qualification {
+  background-color: slateblue;
+  color: #fff;
+}
+
+.my-qual {
+  padding-top: 10px;
+  text-align: center;
+}
+
+.journey {
+  padding-bottom: 0;
+  text-align: center;
+}
+
+.edu {
+  font-size: 2rem;
+  line-height: 2.5;
+}
+
+@media (max-width: 768px){
+  .edu {
+    text-align: left;
+  }
+
+  .h3,h4{
+    font-size: 2.5rem;
+  }
+
+  .contact {
+    text-align: left;
+  }
+}
+
+.wit {
+  font-size: 1.5rem;
+}
+
+.eng-date {
+  font-size: 1rem;
+}
+
+#contact-me {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+
+.social-icon {
+  font-size: 3rem;
+  margin: 20px 10px;
+}
