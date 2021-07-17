@@ -19,6 +19,7 @@
   background-color: slateblue;
   font-family: 'Open Sans', sans-serif;
   padding: 0 1rem 0;
+  box-shadow: 0 1px 4px rgba(146,161,176,.3);
 }
 
 .nav-item {
@@ -160,5 +161,6 @@ h4 {
 
 
 .social-icon {
+  font-size: 3rem;
   margin: 20px 10px;
 }
